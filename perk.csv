@@ -1,0 +1,37 @@
+index,perk,metric,weight
+PPC_Index,Valued customer,monetization_rate,0.083333333
+PPC_Index,Valued customer,trips,0.083333333
+PPC_Index,Valued customer,days_cut_off_vs_sign_up,0.166666667
+PPC_Index,Valued customer,travellers_per_trip,0.166666667
+PPC_Index,Valued customer,tcv_per_traveller,0.166666667
+PPC_Index,Valued customer,tcv_per_room_unit,0.166666667
+PPC_Index,Valued customer,avg_tcv_per_seat_per_km,0.166666667
+FHM_Index,Free hotel meal,hotel_guests_per_trip,0.16666666666666666
+FHM_Index,Free hotel meal,quality_travel_ratio,0.16666666666666666
+FHM_Index,Free hotel meal,long_stay_ratio,0.16666666666666666
+FHM_Index,Free hotel meal,staycation_ratio,0.16666666666666666
+FHM_Index,Free hotel meal,foreign_trip_ratio,0.16666666666666666
+FHM_Index,Free hotel meal,long_haul_ratio,0.16666666666666666
+FHN_Index,Free hotel night,seats_per_trip,0.16666666666666666
+FHN_Index,Free hotel night,flight_only_ratio,0.16666666666666666
+FHN_Index,Free hotel night,premium_flight_ratio,0.16666666666666666
+FHN_Index,Free hotel night,extended_return_trip_ratio,0.16666666666666666
+FHN_Index,Free hotel night,foreign_trip_ratio,0.16666666666666666
+FHN_Index,Free hotel night,long_haul_ratio,0.16666666666666666
+FCB_Index,Free checked bag,seats_per_trip,0.16666666666666666
+FCB_Index,Free checked bag,max_bags_per_seat,0.16666666666666666
+FCB_Index,Free checked bag,budget_flight_ratio,0.16666666666666666
+FCB_Index,Free checked bag,extended_return_trip_ratio,0.16666666666666666
+FCB_Index,Free checked bag,foreign_trip_ratio,0.16666666666666666
+FCB_Index,Free checked bag,long_haul_ratio,0.16666666666666666
+NCF_Index,No cancellation fees,cancellations,0.166666666666667
+NCF_Index,No cancellation fees,cancel_rate,0.166666666666667
+NCF_Index,No cancellation fees,conversion_rate,0.333333333333333
+NCF_Index,No cancellation fees,late_booking_ratio,0.333333333333333
+EDC_Index,Exclusive discounts,clicks_per_session,0.083333333
+EDC_Index,Exclusive discounts,browsing_mins_per_session,0.083333333
+EDC_Index,Exclusive discounts,slippage_rate,0.166666667
+EDC_Index,Exclusive discounts,avg_comparable_trip_discount,0.166666667
+EDC_Index,Exclusive discounts,discount_trip_ratio,0.166666667
+EDC_Index,Exclusive discounts,avg_days_pre_travel,0.166666667
+EDC_Index,Exclusive discounts,late_booking_ratio,0.166666667
